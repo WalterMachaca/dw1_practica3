@@ -2,4 +2,4 @@
 
 # Desarrollo de aplicación web básica utilizando componentes de bootstrap
 
-![Captura](Captura/Captura Página.PNG)
+![Captura](Captura/Página.PNG)
